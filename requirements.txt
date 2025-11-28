@@ -1,0 +1,4 @@
+streamlit>=1.20
+numpy>=1.23
+matplotlib>=3.5
+pillow>=9.0
